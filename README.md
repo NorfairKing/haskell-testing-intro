@@ -29,3 +29,6 @@ Examples are these:
 
 Now complete the property tests for the above properties using the example provided.
 Use `shouldSatisfy` as a more general version of `shouldBe`.
+
+Note that the tests fail because we have written partial functions.
+Fix the functions so that the tests pass.
