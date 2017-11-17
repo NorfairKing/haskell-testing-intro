@@ -1,5 +1,9 @@
 # haskell-testing-intro
 
+This repository contains a step by step guide through basic testing in Haskell.
+Each commit takes the next step through the guide.
+Start by checking out the first commit, and walk through the commits one at a time.
+
 ## Step 1; Unit tests
 
 We start by writing three functions:
