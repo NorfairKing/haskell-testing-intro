@@ -26,3 +26,6 @@ Examples are these:
 - The absolute value of a number is always greater than, or equal to, zero.
 - The reverse list is of the equal length compared to the original list.
 - The square of the absolute value and the square of the original value are the same.
+
+Now complete the property tests for the above properties using the example provided.
+Use `shouldSatisfy` as a more general version of `shouldBe`.
