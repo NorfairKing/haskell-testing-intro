@@ -10,7 +10,7 @@ someFunc = putStrLn "someFunc"
 
 myReverse :: [a] -> [a]
 myReverse [a] = [a]
-myReverse (x:xs) = xs ++ [x]
+myReverse (x:xs) = myReverse xs ++ [x]
 
 myAbs :: Int -> Int
 myAbs x
