@@ -13,3 +13,6 @@ Start by running `stack test --file-watch`.
 Complete the examples in `test/LibSpec.hs` such that there are unit tests for each function in `src/Lib.hs`.
 Use `shouldBe` to build expectations.
 
+Now that unit tests are done, and we have not found any bugs.
+Let us turn to property testing.
+
