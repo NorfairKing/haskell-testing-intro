@@ -16,3 +16,11 @@ Use `shouldBe` to build expectations.
 Now that unit tests are done, and we have not found any bugs.
 Let us turn to property testing.
 
+## Step 2; Property tests
+
+We continue by thinking of properties of our functions.
+
+Examples are these:
+
+- If we reverse a list with one element, nothing changes.
+- The absolute value of a number is always greater than, or equal to, zero.
