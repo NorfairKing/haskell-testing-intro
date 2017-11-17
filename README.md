@@ -24,3 +24,5 @@ Examples are these:
 
 - If we reverse a list with one element, nothing changes.
 - The absolute value of a number is always greater than, or equal to, zero.
+- The reverse list is of the equal length compared to the original list.
+- The square of the absolute value and the square of the original value are the same.
